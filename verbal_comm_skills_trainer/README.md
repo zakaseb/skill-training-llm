@@ -8,7 +8,7 @@ This project is a verbal communication skills trainer built as a wrapper around 
 
 ## Model Selection
 
-We chose [Mistral‑7B](https://huggingface.co/mistralai/Mistral-7B) for its strong performance in language understanding and generation while still being efficient enough for local or GPU‑accelerated inference. The model is loaded using Hugging Face Transformers with 4‑bit quantization (via bitsandbytes) to reduce memory usage.
+I chose [Mistral‑7B](https://huggingface.co/mistralai/Mistral-7B) for its strong performance in language understanding and generation while still being efficient enough for local or GPU‑accelerated inference. The model is loaded using Hugging Face Transformers with 4‑bit quantization (via bitsandbytes) to reduce memory usage.
 
 ## Features
 
@@ -49,7 +49,7 @@ verbal_comm_skills_trainer/ \
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/verbal_comm_skills_trainer.git
+   git clone https://github.com/zakaseb/skill-training-llm.git
    cd verbal_comm_skills_trainer
 
 2. **Install Dependencies:**
