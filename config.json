@@ -1,0 +1,17 @@
+{
+  "model_name": "mistralai/Mistral-7B",
+  "quantization": true,
+  "impromptu_prompts": [
+    "Why is empathy important?",
+    "What motivates you in difficult situations?",
+    "Discuss the importance of effective teamwork."
+  ],
+  "storytelling_prompts": [
+    "Tell a story about a time you overcame a challenge.",
+    "Share an experience where you learned a valuable lesson."
+  ],
+  "conflict_resolution_prompts": [
+    "Your teammate is frustrated due to workload imbalance. How do you address it?",
+    "You have a conflict with a colleague over project direction. What do you do?"
+  ]
+}
