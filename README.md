@@ -8,7 +8,7 @@ This project is a verbal communication skills trainer built as a wrapper around 
 
 ## Model Selection
 
-I chose [Mistral‑7B](https://huggingface.co/mistralai/Mistral-7B) for its strong performance in language understanding and generation while still being efficient enough for local or GPU‑accelerated inference. The model is loaded using Hugging Face Transformers with 4‑bit quantization (via bitsandbytes) to reduce memory usage.
+I chose [EleutherAI/gpt-neo-2.7B](https://huggingface.co/EleutherAI/gpt-neo-2.7B) for its strong performance in language understanding and generation while still being efficient enough for local or GPU‑accelerated inference. The model is loaded using Hugging Face Transformers with 4‑bit quantization (via bitsandbytes) to reduce memory usage.
 
 ## Features
 
