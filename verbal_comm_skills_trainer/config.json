@@ -1,5 +1,5 @@
 {
-  "model_name": "mistralai/Mistral-7B",
+  "model_name": "EleutherAI/gpt-neo-2.7B",
   "quantization": true,
   "impromptu_prompts": [
     "Why is empathy important?",

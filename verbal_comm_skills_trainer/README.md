@@ -28,7 +28,7 @@ I chose [Mistral‑7B](https://huggingface.co/mistralai/Mistral-7B) for its stro
 
 ## Project Structure
 
-verbal_comm_skills_trainer/ \
+skill-training-llm/verbal_comm_skills_trainer/ \
 ├── README.md\
 ├── requirements.txt\
 ├── config.json\
